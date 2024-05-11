@@ -36,10 +36,10 @@ This repository contains all of the source code used in the course HTML, CSS and
 
   
 ## Outputs:
-* [Module 2](https://vansh-codes.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module 3](https://vansh-codes.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module 4](https://vansh-codes.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module 5](https://vansh-codes.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module 2](https://vansh-codes.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-Coursera/Assignments/module-2/index.html)
+* [Module 3](https://vansh-codes.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-Coursera/Assignments/module-3/index.html)
+* [Module 4](https://vansh-codes.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-Coursera/Assignments/module-4/index.html)
+* [Module 5](https://vansh-codes.github.io/HTML-CSS-and-JavaScript-for-Web-Developers-Coursera/Assignments/module-5/index.html)
 
 
 ## Note:
